@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sportsurge | Stream Live Sports, NBA, MLB, NFL, NHL.</title>
+    <meta
+      name="description"
+      content="Sportsurge offers free live streaming of sports without the need for registration. Enjoy HD streams of  Basketball, Baseball, MMA, and more. Watch now!"
+    />
+    <meta
+      name="keywords"
+      content="Sportsurge, free sports streaming, live NFL streams, NBA streams USA, UFC streams free, sports streaming platform, live sports USA, NHL streams"
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.png" />
+    <link href="/src/css/output.css" rel="stylesheet" />
+  </head>
+  <body class="bg-gray-800">
+    <div class="flex justify-center mb-8">
+      <div
+        class="max-w-xl w-full flex justify-center items-center mt-10 flex-col mx-5"
+      >
+        <img src="./logo.png" width="200" height="30" alt="logo" />
+        <div class="text-center mt-5 text-2xl text-white/70 font-bold">
+          Sportsurge - Stream Live Sports NFL, MLB, NBA, NHL and Soccer
+        </div>
+        <div class="w-full bg-gray-700 shadow-2xl p-4 rounded-xl mt-5">
+          <p class="text-white/70 text-sm">
+            Press CTRL + D to bookmark this site for easy access to the latest
+            updates. Stay up-to-date on Sportsurge official domains!
+          </p>
+          <div class="flex flex-col mt-8 gap-1">
+            <a class="cell" href="/">
+              <span class="col-span-8">Sportsurge</span>
+              <span
+                class="text-green-500 font-semibold col-span-4 flex justify-end gap-2 items-center"
+              >
+                Online
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="min-w-[22px] min-h-[22px]"
+                >
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6"
+                  />
+                  <path d="M11 13l9 -9" />
+                  <path d="M15 4h5v5" />
+                </svg>
+              </span>
+            </a>
+            <a class="cell" href="/">
+              <span class="col-span-8">Sportsurge Basketball</span>
+              <span
+                class="text-green-500 font-semibold col-span-4 flex justify-end gap-2 items-center"
+              >
+                Online
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="min-w-[22px] min-h-[22px]"
+                >
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6"
+                  />
+                  <path d="M11 13l9 -9" />
+                  <path d="M15 4h5v5" />
+                </svg>
+              </span>
+            </a>
+            <a class="cell" href="/">
+              <span class="col-span-8">Sportsurge Baseball</span>
+              <span
+                class="text-green-500 font-semibold col-span-4 flex justify-end gap-2 items-center"
+              >
+                Online
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="min-w-[22px] min-h-[22px]"
+                >
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6"
+                  />
+                  <path d="M11 13l9 -9" />
+                  <path d="M15 4h5v5" />
+                </svg>
+              </span>
+            </a>
+          </div>
+          <div>
+            <p class="text-sm text-white/80 mt-8">
+              <strong>Sportsurge</strong> offers
+              <strong>live streaming </strong> of your favorite sports events
+              without the hassle of sign-ups or subscriptions, delivering
+              seamless <strong> HD quality streams </strong> of football,
+              basketball, MMA, and more—all for free!
+            </p>
+            <center class="mt-5">
+              <img src="./watch-live-soccer-streams.jpg" alt="logo" />
+            </center>
+            <h2 class="mt-4">
+              Why Choose Sportsurge for Live Sports Streaming?
+            </h2>
+            <h2>Stream Without Registration</h2>
+            <p>
+              With <strong>Sportsurge</strong>, you can access
+              <strong>live streams</strong> without creating an account. Skip
+              the hassle of sign-ups and start watching your favorite sports
+              instantly.
+            </p>
+            <h2>High-Quality HD Streams</h2>
+            <p>
+              Enjoy high-definition <strong>streams</strong> with minimal
+              buffering on <strong>Sportsurge</strong>. Whether you're watching
+              football, basketball, or any other sport, expect crisp visuals and
+              smooth playback.
+            </p>
+            <h2>Wide Range of Sports Available</h2>
+            <p>
+              <strong>Sportsurge</strong> covers a broad range of sports
+              including NFL, NBA, NHL, UFC, and more. It’s the perfect place for
+              fans who want access to multiple sporting events in one place.
+            </p>
+            <h2>User-Friendly Interface</h2>
+            <p>
+              The <strong>Sportsurge</strong> platform is designed to be
+              user-friendly, making it easy to navigate and find the sports
+              events you want to watch. Simply choose your sport and enjoy the
+              game!
+            </p>
+            <h2>No Subscription Fees</h2>
+            <p>
+              <strong>Sportsurge</strong> is completely free to use. There are
+              no hidden fees or subscription charges—just straightforward, free
+              access to all your favorite sports.
+            </p>
+            <h2><strong>Sportsurge</strong> Streaming Options</h2>
+            <h3>Football <strong>Live Streams</strong></h3>
+            <p>
+              <strong>Sportsurge</strong> offers a variety of
+              <strong>live</strong> football <strong>streams</strong>, including
+              the NFL, college football, and international leagues. Watch every
+              touchdown and tackle in real-time.
+            </p>
+            <h3>Basketball <strong>Live Streams</strong></h3>
+            <p>
+              Catch NBA games and college basketball action on
+              <strong>Sportsurge</strong>. <strong>Stream</strong> the latest
+              games with no delays and enjoy the thrill of
+              <strong>live</strong> basketball.
+            </p>
+            <h3>UFC and MMA Streams</h3>
+            <p>
+              For MMA fans, <strong>Sportsurge</strong> provides access to
+              <strong>live</strong> UFC events and other MMA competitions. Don’t
+              miss any of the action in the octagon with reliable
+              <strong>streams</strong>.
+            </p>
+            <h3>Soccer Streams from Around the World</h3>
+            <p>
+              Follow your favorite soccer leagues including the Premier League,
+              La Liga, Serie A, and more with <strong>Sportsurge</strong>. Get
+              <strong>live</strong> coverage of matches from around the world.
+            </p>
+            <h3>Motorsports and Racing</h3>
+            <p>
+              If you’re into racing, <strong>Sportsurge</strong> has you covered
+              with <strong>live streams</strong> of Formula 1, MotoGP, and other
+              popular motorsports. Watch high-speed action from the comfort of
+              your home.
+            </p>
+            <h2>
+              How to Use <strong>Sportsurge</strong> for
+              <strong>Live Streaming</strong>
+            </h2>
+            <ol>
+              <li>
+                <strong>Visit the <strong>Sportsurge</strong> Website</strong>
+                <p>
+                  Navigate to the official <strong>Sportsurge</strong> website
+                  from your browser. Ensure you have a stable internet
+                  connection for the best <strong>streaming</strong> experience.
+                </p>
+              </li>
+              <li>
+                <strong>Select Your Sport</strong>
+                <p>
+                  Browse the available sports categories and select the sport
+                  you want to watch. <strong>Sportsurge</strong> provides
+                  options for football, basketball, MMA, and more.
+                </p>
+              </li>
+              <li>
+                <strong>Choose a <strong>Stream</strong></strong>
+                <p>
+                  Click on the match or event you want to watch.
+                  <strong>Sportsurge</strong> offers multiple
+                  <strong>stream</strong> links, allowing you to select the best
+                  option based on quality and speed.
+                </p>
+              </li>
+              <li>
+                <strong>Start Watching</strong>
+                <p>
+                  Once you select your <strong>stream</strong>, it will begin
+                  playing automatically. Enjoy the game in high-definition and
+                  cheer for your favorite team or athlete!
+                </p>
+              </li>
+              <li>
+                <strong>Troubleshooting Tips</strong>
+                <p>
+                  If you experience buffering or lag, try switching to a
+                  different <strong>stream</strong> link or refreshing the page.
+                  For the best experience
+                </p>
+              </li>
+              <li>
+                <strong>Troubleshooting Tips</strong>
+                <p>
+                  If you experience buffering or lag, try switching to a
+                  different <strong>stream</strong> link or refreshing the page.
+                  For the best experience, close other tabs and apps using
+                  internet bandwidth.
+                </p>
+              </li>
+            </ol>
+            <h2>
+              <strong>Sportsurge</strong> Alternatives for
+              <strong>Live Sports</strong>
+            </h2>
+            <ul>
+              <li>Reddit Streams</li>
+              <li>Crackstreams</li>
+              <li>Stream2Watch</li>
+              <li>VIPRow Sports</li>
+              <li>Buffstreams</li>
+            </ul>
+            <h2>FAQs About <strong>Sportsurge</strong></h2>
+            <h3>Is <strong>Sportsurge</strong> Legal?</h3>
+            <p>
+              <strong>Sportsurge</strong> itself doesn't host streams but
+              provides links to third-party streaming sites. The legality of
+              using these streams depends on your location and local copyright
+              laws.
+            </p>
+            <h3>Do I Need an Account to Use <strong>Sportsurge</strong>?</h3>
+            <p>
+              No, <strong>Sportsurge</strong> does not require users to create
+              an account. You can access and watch streams without any
+              registration.
+            </p>
+            <h3>What Sports Are Available on <strong>Sportsurge</strong>?</h3>
+            <p>
+              <strong>Sportsurge</strong> covers a wide range of sports,
+              including football, basketball, UFC, soccer, motorsports, and
+              more. It’s ideal for fans of various sports.
+            </p>
+            <h3>Can I Watch <strong>Sportsurge</strong> on Mobile Devices?</h3>
+            <p>
+              Yes, <strong>Sportsurge</strong> is mobile-friendly. You can
+              access it through your smartphone or tablet browser and stream
+              your favorite sports on the go.
+            </p>
+            <h3>Are There Ads on <strong>Sportsurge</strong>?</h3>
+            <p>
+              <strong>Sportsurge</strong> may have some ads as it links to
+              third-party streams. However, the platform itself strives to
+              minimize intrusive advertisements for a better user experience.
+            </p>
+            <h2>Conclusion</h2>
+            <p>
+              <strong>Sportsurge</strong> is a go-to platform for sports
+              enthusiasts looking to <strong>stream</strong>
+              <strong>live</strong> events without the hassle of sign-ups or
+              fees. With its high-quality <strong>streams</strong>, wide variety
+              of sports, and user-friendly design, it has become a popular
+              choice for fans worldwide. Whether you’re into football,
+              basketball, or MMA, <strong>Sportsurge</strong> provides a
+              reliable way to catch all the action. Give it a try today and
+              enjoy your favorite sports without interruptions!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
